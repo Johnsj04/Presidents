@@ -1,0 +1,11 @@
+Project 17 — The Hall of Presidents
+
+The goal for this project is to create a responsive website that displays 
+the portraits of the Presidents of the United States.
+Each picture should include information about each President.
+The information can be presented in any way you wish, but it 
+always has to accompany the portrait as it is position for responsiveness.
+If you were to view such a website on a mobile phone’s web browser, 
+each Presidential portrait might be positioned one on top of another.
+Styling and content are completely up to you. Responsiveness and Semantics 
+are the key.
