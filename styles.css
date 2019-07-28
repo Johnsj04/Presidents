@@ -1,0 +1,13 @@
+header {
+  background-image: url(https://www.publicdomainpictures.net/pictures/160000/velka/american-flag-1459201553ppe.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 100px;
+  align-content: stretch;
+}
+#Page-Title {
+  padding: 0%;
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
