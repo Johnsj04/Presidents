@@ -11,3 +11,22 @@ header {
   font-size: 40px;
   color: black;
 }
+#presidents_list {
+  display: grid;
+  grid-auto-columns: 1500px;
+}
+#president {
+  text-align: center;
+  padding: 10%;
+  word-wrap: normal;
+}
+img {
+  width: 37%;
+}
+.container {
+  grid-auto-flow: row column dense;
+  max-width: 1180px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0 3rem;
+}
