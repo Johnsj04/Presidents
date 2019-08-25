@@ -17,16 +17,18 @@ header {
 }
 #president {
   text-align: center;
-  padding: 10%;
+  padding: 5px;
   word-wrap: normal;
 }
 img {
-  width: 37%;
+  width: 50%;
 }
 .container {
-  grid-auto-flow: row column dense;
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  grid-gap: 3em;
   max-width: 1180px;
   text-align: center;
-  margin: 0 auto;
-  padding: 0 3rem;
+  margin-left: 3em;
+  margin-bottom: 5em;
 }
