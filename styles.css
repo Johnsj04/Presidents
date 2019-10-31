@@ -8,14 +8,16 @@ header {
 #Page-Title {
   padding: 0%;
   text-align: center;
-  font-size: 40px;
+  font-size: 80px;
   color: black;
 }
 #presidents_list {
   display: grid;
-  grid-auto-columns: 1500px;
+  grid-auto-columns: auto;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6c/Constitution_of_the_United_States%2C_page_1.jpg);
+  background-size: cover;
 }
-#president {
+.president {
   text-align: center;
   padding: 5px;
   word-wrap: normal;
@@ -25,10 +27,14 @@ img {
 }
 .container {
   display: grid;
-  grid-template-columns: repeat(3, 2fr);
+  grid-template-columns: repeat(3, 10fr);
   grid-gap: 3em;
-  max-width: 1180px;
+  max-width: auto;
   text-align: center;
   margin-left: 3em;
   margin-bottom: 5em;
+}
+
+p {
+  font-size: 30px;
 }
