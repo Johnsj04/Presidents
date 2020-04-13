@@ -1,5 +1,6 @@
 # Presidents
-Create a listing of all the presidents of the United States
+The goal for this project is to create a responsive website that displays 
+the portraits of the Presidents of the United States.
 
 # What I Used
 
