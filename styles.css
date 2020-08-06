@@ -14,7 +14,7 @@ header {
 #presidents_list {
   display: grid;
   grid-auto-columns: auto;
-  background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/130306205822-the-bill-of-rights-horizontal-large-gallery.jpg);
+  background-image: url(https://general-history.com/wp-content/uploads/2014/10/Constitution-300x168.jpg);
   background-size: cover;
 }
 .president {
