@@ -14,7 +14,7 @@ header {
 #presidents_list {
   display: grid;
   grid-auto-columns: auto;
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/6c/Constitution_of_the_United_States%2C_page_1.jpg);
+  background-image: url(https://cdn.cnn.com/cnnnext/dam/assets/130306205822-the-bill-of-rights-horizontal-large-gallery.jpg);
   background-size: cover;
 }
 .president {
